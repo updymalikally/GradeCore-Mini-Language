@@ -1,1 +1,0 @@
-# GradeCore-Mini-Language
