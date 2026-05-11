@@ -1,0 +1,2 @@
+class GradeCoreInterpreter:
+    pass
